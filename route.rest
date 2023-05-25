@@ -1,0 +1,6 @@
+GET Http://localhost:3000/bookings
+
+###
+
+POST Http://localhost:3000/bookings
+Content-Type: application/json
